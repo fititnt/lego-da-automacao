@@ -1,17 +1,24 @@
 # Lego da Automação
-Lista de ferramentas para automatização de etapas de processos de
-trabalhos complexos. Hacking criativo. É inspirado no
-_[Lego do Empreendedorismo](https://www.facebook.com/fititnt/posts/1518854858165990)_
+Lista de ferramentas selecionadas pelo full stack developer e pesquisador de
+inteligência artificial [Emerson Rocha](https://github.com/fititnt) para
+automatizar etapas de processos em clientes finais. Visa delegar às máquinas o que elas fazem de melhor,
+permitindo que os humanos serem mais humanos, gerando aumento de produtividade
+geral.
 
+É inspirado no conceito do _[Lego do Empreendedorismo](https://www.facebook.com/fititnt/posts/1518854858165990)_.
+
+----
 
 <!-- TOC depthFrom:2 orderedList:true -->
 
 1. [Automatizadores de fluxos de trabalhos entre múltiplas plataformas](#automatizadores-de-fluxos-de-trabalhos-entre-múltiplas-plataformas)
 2. [Inteligência Artificial](#inteligência-artificial)
-    1. [Chatbots](#chatbots)
+    1. [Análise de Sentimento](#análise-de-sentimento)
+    2. [Chatbots](#chatbots)
 3. [Linguagem](#linguagem)
     1. [Texto-Para-Voz / Text to Speech](#texto-para-voz--text-to-speech)
-    2. [Voz-Para-Texto / Speech to Text](#voz-para-texto--speech-to-text)
+    2. [Tradução](#tradução)
+    3. [Voz-Para-Texto / Speech to Text](#voz-para-texto--speech-to-text)
 
 <!-- /TOC -->
 
@@ -32,6 +39,10 @@ _[Lego do Empreendedorismo](https://www.facebook.com/fititnt/posts/1518854858165
 
 ## Inteligência Artificial
 
+### Análise de Sentimento
+
+_TODO: adicionar lista com descrição aqui (fititnt, 2017-07-09 03:57)_
+
 ### Chatbots
 
 <!--
@@ -51,6 +62,11 @@ _TODO: adicionar lista com descrição aqui (fititnt, 2017-07-09 03:02)_
 - [eSpeak](guia-extra/speak.md)
 
 _TODO: adicionar lista com descrição aqui (fititnt, 2017-07-09 03:02)_
+
+### Tradução
+
+- [Tradutor do Google](https://translate.google.com.br/)
+- [Microsoft Translator](https://www.bing.com/translator)
 
 ### Voz-Para-Texto / Speech to Text
 
