@@ -1,11 +1,26 @@
 # Lego da Automação
 Lista de ferramentas selecionadas pelo full stack developer e pesquisador de
 inteligência artificial [Emerson Rocha](https://github.com/fititnt) para
-automatizar etapas de processos em clientes finais. Visa delegar às máquinas o que elas fazem de melhor,
-permitindo que os humanos serem mais humanos, gerando aumento de produtividade
-geral.
+automatizar etapas de processos em clientes finais. Visa delegar às máquinas o
+que elas fazem de melhor, permitindo que os humanos _serem mais humanos_,
+gerando aumento de produtividade geral.
 
-É inspirado no conceito do _[Lego do Empreendedorismo](https://www.facebook.com/fititnt/posts/1518854858165990)_.
+Sob o conceito de que _máquinas devem ser usadas como companheiras, não
+substitutas_, e que cada pessoa pode ter uma cognição única, busca estimular
+criatividade tanto no cliente final, que tem tarefas típicamente
+administrativas, como em quem tem previamente melhor aptidão em tecnologia
+de automação. **Você adapta a coleção de soluções tecnológicas ao humano**,
+quer seja ensinando a usar de forma mais eficiente filtros avançados de cliente
+de e-mail ou mesmo usando inteligência artificial para fazer pré-triagem de
+decisões que o humano deveria tomar.
+
+É inspirado no conceito do _[Lego do Empreendedorismo](https://www.facebook.com/fititnt/posts/1518854858165990)_,
+conceito equivalente só que aplicado para público jovem. "Lego da Automação" é,
+provavelmente, um nome temporário.
+
+----
+
+Veja [Documentações de uso](documentacao.md).
 
 ----
 
