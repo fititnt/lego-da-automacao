@@ -15,8 +15,12 @@ de e-mail ou mesmo usando inteligência artificial para fazer pré-triagem de
 decisões que o humano deveria tomar.
 
 É inspirado no conceito do _[Lego do Empreendedorismo](https://www.facebook.com/fititnt/posts/1518854858165990)_,
-conceito equivalente só que aplicado para público jovem. "Lego da Automação" é,
-provavelmente, um nome temporário.
+conceito equivalente só que aplicado para público jovem. E também leva em conta
+questões como [baixa produtividade do trabalhador brasileiro em comparação
+a outros países](https://github.com/frontendbr/forum/issues/555), que implica
+em prejuízos na economia.
+
+"Lego da Automação" é, provavelmente, um nome temporário.
 
 ----
 
@@ -26,18 +30,28 @@ Veja [Documentações de uso](documentacao.md).
 
 <!-- TOC depthFrom:2 orderedList:true -->
 
-1. [Automatizadores de fluxos de trabalhos entre múltiplas plataformas](#automatizadores-de-fluxos-de-trabalhos-entre-múltiplas-plataformas)
-2. [Inteligência Artificial](#inteligência-artificial)
+1. [Diagramas](#diagramas)
+2. [Integradores de serviços multipropósito](#integradores-de-serviços-multipropósito)
+3. [Inteligência Artificial](#inteligência-artificial)
     1. [Análise de Sentimento](#análise-de-sentimento)
     2. [Chatbots](#chatbots)
-3. [Linguagem](#linguagem)
+4. [Linguagem](#linguagem)
     1. [Texto-Para-Voz / Text to Speech](#texto-para-voz--text-to-speech)
     2. [Tradução](#tradução)
     3. [Voz-Para-Texto / Speech to Text](#voz-para-texto--speech-to-text)
 
 <!-- /TOC -->
 
-## Automatizadores de fluxos de trabalhos entre múltiplas plataformas
+## Diagramas
+
+> Exiba ideias de forma visual
+
+1. [draw.io](https://www.draw.io)
+    - Gratuito, sem limites, open-source
+    - Multiplataforma (versão web)
+    - Melhor até mesmo que concorrentes pagos!
+
+## Integradores de serviços multipropósito
 
 > Crie tarefas que são executadas quando algo ocorre em uma plataforma e
 > faz uma ação em outra, depois outra, depois...
