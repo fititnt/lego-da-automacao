@@ -1,4 +1,9 @@
 # Lego da Automação
+
+> _Nota: por questões de prioridade **neste** momento este repositório está congelado.
+Indico inspirações geradas por ele no grupo de trabalho [fititnt/chatops-wg](https://github.com/fititnt/chatops-wg)
+e no [fititnt/agentes-inteligentes](https://github.com/fititnt/agentes-inteligentes)._
+
 Lista de ferramentas selecionadas pelo full stack developer e pesquisador de
 inteligência artificial [Emerson Rocha](https://github.com/fititnt) para
 automatizar etapas de processos em clientes finais. Visa delegar às máquinas o
